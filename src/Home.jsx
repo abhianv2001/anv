@@ -42,7 +42,7 @@ function Home() {
             <button type="button" onClick={handleclick}>click</button>
             <table border="1">
                 <tr>
-                    <th>Image</th>
+                    <th>Images</th>
                     <th>Title</th>
                     <th>Price</th>
                 </tr>
